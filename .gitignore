@@ -1,0 +1,4 @@
+yt_config.py
+*.json
+.venv
+*.pyc
